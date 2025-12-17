@@ -2,9 +2,11 @@
 
 <!--
 **shankarbuyyakari/ShankarBuyyakari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- Here are some ideas to get you started:
+Data‑driven professional with a passion for analytics and business intelligence.
+Recently certified in Data Analytics at ExcelR Institute, Hyderabad,
+gaining hands‑on expertise in Python, SQL, Power BI, and advanced Excel.
+I focus on transforming raw data into actionable insights that drive smarter decisions and measurable business outcomes.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
